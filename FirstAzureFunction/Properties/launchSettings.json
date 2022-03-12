@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "FirstAzureFunction": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31148,
+      "useSSL": false
+    }
+  }
+}
